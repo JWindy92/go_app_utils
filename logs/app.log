@@ -1,0 +1,1 @@
+{"time":"2025-09-02T12:53:48.074357078-04:00","level":"INFO","source":{"function":"main.main","file":"/home/johnw/development/go_app_utils/cmd/main.go","line":11},"msg":"Logger initialized"}
